@@ -1,7 +1,7 @@
-# Android-Study-Jam
+# Android-Study-Jam (fork)
 All the material for the Android Study Jam at Women Techmakers Hamburg
 
-Everything here is work in progress and up to discussion!
+Everything here is **work in progress** and **up to discussion**!
 
 ## WTM-Messenger
 This is the reference app that we want to build during the course. The idea is a simple WhatsApp like chat application that uses Firebase as its backend.
@@ -18,6 +18,10 @@ Not all must be accomplished
 4. Users can create chat groups with individuals or groups
 
 5. Provide login functionality
+
+### Good-to-have-but-not-needed previous knowledge (especially this is open for discussion :-) )
+
+* Java
 
 ### Prerequisites
 * The latest version of Android Studio, including the latest support library revision
@@ -39,3 +43,10 @@ Not all must be accomplished
   4. Alternatively, in Android Studio, click Tools -> Firebase -> Realtime Database -> Save and retrieve data -> Connect to Firebase -> Add the Realtime Database to your app
   5. That's it, Firebase is set up and ready to go :-)
   
+  
+### Questions to either talk about or address in the guides
+* How does the Firebase Realtime Database work?
+* What are JSON and XML? Which role do they play in our daily lifes?
+* How does an Android app work (`Activities`, `Fragments`, `Views`, `Activity#setContentView`, `Context`)?
+* What is a library?
+* What is Gradle?
