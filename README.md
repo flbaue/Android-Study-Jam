@@ -48,5 +48,6 @@ Not all must be accomplished
 * How does the Firebase Realtime Database work?
 * What are JSON and XML? Which role do they play in our daily lifes?
 * How does an Android app work (`Activities`, `Fragments`, `Views`, `Activity#setContentView`, `Context`)?
-* What is a library?
+* What is the Design / Support Library?
+* (What is a library?)
 * What is Gradle?
