@@ -1,4 +1,4 @@
-# Android-Study-Jam (fork)
+# Android-Study-Jam
 All the material for the Android Study Jam at Women Techmakers Hamburg
 
 Everything here is **work in progress** and **up to discussion**!
