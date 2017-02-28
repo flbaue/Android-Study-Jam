@@ -9,7 +9,7 @@ This is the reference app that we want to build during the course. The idea is a
 ### Proposed feature steps
 Not all must be accomplished
 
-1. Just being able to send end receive text messages and display them in a list.
+1. Send end receive text messages and display them in a list.
 
 2. Make users identifiable by a name
 
