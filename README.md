@@ -26,7 +26,7 @@ Not all must be accomplished
 ### Prerequisites
 * The latest version of Android Studio, including the latest support library revision
 * (Github account)?
-* (optinoal) GitHub Desktop - for beginners probably the most comprehensive way of using Git. Even without GitHub account.
+* (optional) GitHub Desktop - for beginners probably the most comprehensive way of using Git. Even without GitHub account.
 * A Google account
 * Android 7.1.1 (API 25) (this is the latest as of 28/02/2017, it may change over time) SDK Platform and Google Play Services from the SDK Manager
 
