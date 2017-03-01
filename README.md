@@ -3,8 +3,16 @@ All the material for the Android Study Jam at Women Techmakers Hamburg
 
 Everything here is **work in progress** and **up to discussion**!
 
+## Goal of the course
+The goal is to give interested people that might not have a programming background, but could have, an introduction to how an android app is build and how things can be achived. This course is not meant to provide some kind of professional training that enables people to become productive developers. People of all skill levels should have some kind of success experience. Therfore there should be simple tasks to start with and more advanced tasks towards the end.
+
+## Timeline
+The complete course should take around 5 or 6 units. A single unit should be less then 3 hours of time. Participant feedback should be an important part to adapt the course to the actual need.
+
 ## WTM-Messenger
 This is the reference app that we want to build during the course. The idea is a simple WhatsApp like chat application that uses Firebase as its backend.
+
+In the end there should be branches here, that contain each feature step by itself. That way someone could just checkout a specific branch and compare to their own implementation or continue from there.
 
 ### Proposed feature steps
 Not all must be accomplished
