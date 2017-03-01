@@ -11,7 +11,7 @@ Not all must be accomplished
 
 1. Send and receive text messages and display them in a list (Recycler View).
 
-2. Make users identifiable by a name (Firebase Authentication)
+2. Make users identifiable by a name
 
 3. Send and receive images
 
